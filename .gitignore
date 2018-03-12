@@ -57,3 +57,18 @@ typings/
 # dotenv environment variables file
 .env
 
+.DS_Store
+/dist/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+.idea/misc.xml
+
+.idea/vcs.xml

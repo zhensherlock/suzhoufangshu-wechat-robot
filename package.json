@@ -1,0 +1,22 @@
+{
+  "name": "suzhoufangshu-wechat-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhensherlock/suzhoufangshu-wechat-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhensherlock/suzhoufangshu-wechat-robot/issues"
+  },
+  "homepage": "https://github.com/zhensherlock/suzhoufangshu-wechat-robot#readme",
+  "dependencies": {
+    "wechaty": "^0.13.72"
+  }
+}
